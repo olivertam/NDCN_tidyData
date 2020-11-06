@@ -1,0 +1,4 @@
+Sample	Group	C9expansion	Tissue
+sample1	ALS	No	Motor cortex
+sample2	ALS	No	Motor cortex
+sample3	Ctrl	N/A	Motor cortex
